@@ -1,6 +1,6 @@
 # Space Shooter
 ## Project Description
-This is a fast-paced arcade-style spaceship shooter developed in Unity and written in C#. Players control a spaceship, navigating through space while firing at asteroids and enemies, dodging enemy projectiles, and collecting power-ups. If the game persists for too long, it enters Onslaught Mode, dramatically increasing the challenge.
+This is an arcade-style spaceship shooter developed in Unity and written in C#. Players control a spaceship, navigating through space while firing at asteroids and enemies, dodging enemy projectiles, and collecting power-ups. If the game persists for too long, it enters Onslaught Mode, dramatically increasing the challenge.
 
 The game was built using a C# game development tutorial as a foundation, but it was expanded and modified to include new mechanics such as power-ups, increasing difficulty, and different asteroid types.
 
