@@ -24,7 +24,7 @@ The game was built using a C# game development tutorial as a foundation, but it 
 
 ```ProjectSettings/``` – Stores Unity project settings, including:
 
-Build/ 
+```Build/``` - contains finished game files with .exe to run them
 
 ```Packages/``` - Lists relevant dependencies
 
