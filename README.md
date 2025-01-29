@@ -35,3 +35,8 @@ The game was built using a C# game development tutorial as a foundation, but it 
 ### To Play the Game
 Clone this repository
 Run the game in the Unity Editor or utilize the provided build
+
+### Demo Screenshots
+![Demo1](demo_1.png)
+![Demo2](demo_2.png)
+![Demo3](demo_3.png)
