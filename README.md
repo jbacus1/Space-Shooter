@@ -37,6 +37,10 @@ Clone this repository
 Run the game in the Unity Editor or utilize the provided build
 
 ### Demo Screenshots
+---
+#### Fighting
 ![Demo1](demo_1.png)
+#### Game Over
 ![Demo2](demo_2.png)
+#### Maneuvering
 ![Demo3](demo_3.png)
