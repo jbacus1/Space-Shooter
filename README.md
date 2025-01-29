@@ -28,7 +28,7 @@ The game was built using a C# game development tutorial as a foundation, but it 
 
 ```Packages/``` - Lists relevant dependencies
 
-Files
+### Files
 ```.gitignore``` – Specifies files to be ignored by Git
 ```.gitattributes``` – Defines Git settings for handling line endings and file diffs.
 
