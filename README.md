@@ -13,7 +13,7 @@ The game was built using a C# game development tutorial as a foundation, but it 
 ## Repository Structure
 ---
 ### Folders
-Assets/ – Main game content, including:
+```Assets/``` – Main game content, including:
 
 - C# scripts for game mechanics
 - Sprites, models, and animations
@@ -22,15 +22,15 @@ Assets/ – Main game content, including:
 - Unity scenes (game environments and levels)
 - Packages/ – Unity package dependencies and external libraries used in the project.
 
-ProjectSettings/ – Stores Unity project settings, including:
+```ProjectSettings/``` – Stores Unity project settings, including:
 
 Build/ 
 
-Packages/ - Lists relevant dependencies
+```Packages/``` - Lists relevant dependencies
 
 Files
-.gitignore – Specifies files to be ignored by Git
-.gitattributes – Defines Git settings for handling line endings and file diffs.
+```.gitignore``` – Specifies files to be ignored by Git
+```.gitattributes``` – Defines Git settings for handling line endings and file diffs.
 
 ### To Play the Game
 Clone this repository
